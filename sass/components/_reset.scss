@@ -1,0 +1,34 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.nav__item,
+.benefits__list,
+.activity__list,
+.teammates__list,
+.address__list,
+.filter-buttons,
+.portfolio-list,
+.socials,
+.clients__list,
+.footer-socials__list {
+  list-style: none;
+}
